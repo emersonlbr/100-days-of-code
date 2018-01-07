@@ -15,7 +15,7 @@
 
 **Thoughts**: I am really excited to start this challenge, motivaded and focused. Goal: get better at coding and finnish the Free Code Camp front end map.
 
-**Link(s) to work**: [Calculator App](https://www.freecodecamp.org/emersonlbr)
+**Link(s) to work**: [FCC Profile]](https://www.freecodecamp.org/emersonlbr)
 
 
 ### Day 1: January 5, 2018
