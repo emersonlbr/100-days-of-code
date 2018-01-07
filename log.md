@@ -18,6 +18,15 @@
 **Link(s) to work**: [Calculator App](https://www.freecodecamp.org/emersonlbr)
 
 
+### Day 1: January 5, 2018
+
+**Today's Progress**: Stuck on a freecodecamp intermediate challenge .-.
+
+**Thoughts**: I've been trying to solve this algorithm for almost 2 hours and yet couldn't get it to work! Feeling a bit lost
+
+<!-- **Link(s) to work**: []() -->
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
