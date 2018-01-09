@@ -1,6 +1,6 @@
-<!-- # 100 Days Of Code - Log
+# 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -18,7 +18,7 @@
 **Link(s) to work**: [FCC Profile]](https://www.freecodecamp.org/emersonlbr)
 
 
-### Day 1: January 5, 2018
+### Day 1: January 6, 2018
 
 **Today's Progress**: Stuck on a freecodecamp intermediate challenge .-.
 
@@ -27,12 +27,20 @@
 <!-- **Link(s) to work**: []() -->
 
 
-<!-- ### Day 1: June 27, Monday
+### Day 2: January 7, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've solved a few FCC chalenges and took some classes on Udemy about CSS studied for almost 3 hours today.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Another day facing the intermediate FCC chalenges, feel like I know nothing about coding xD.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp)
+
+
+### Day 3: January 8, 2018
+
+**Today's Progress**: Trying to do a challenge on FCC but got stuck once again, read Eloquent JS about functions and scope.
+
+**Thoughts**: I'm feeling like these intermediate challengens are way too hard, so I decided to read more about javascript.
+
+<!-- **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp) -->
+
