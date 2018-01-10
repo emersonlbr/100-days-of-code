@@ -42,5 +42,12 @@
 
 **Thoughts**: I'm feeling like these intermediate challengens are way too hard, so I decided to read more about javascript.
 
+
+### Day 4: January 9, 2018
+
+**Today's Progress**: I've done some javascript challenges on fcc and took a couple of lessons on d3
+
+**Thoughts**: feeling good and motivated
+
 <!-- **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp) -->
 
