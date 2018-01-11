@@ -49,5 +49,14 @@
 
 **Thoughts**: feeling good and motivated
 
+
+### Day 5: January 10, 2018
+
+**Today's Progress**: Done 3 FCC challenges, watched a lecture about JS in youtube, read a little bit more of eloquent js, watched some css animations tutorial.
+
+**Toughts**: It feels great to get the correct answers on FCC, watching the lecture motivated me about learning JS and becoming a developer.
+
+**Link to Work** []()
+
 <!-- **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp) -->
 
