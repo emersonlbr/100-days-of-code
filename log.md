@@ -54,7 +54,47 @@ tor App](http://www.example.com) -->
 
 
 ### Day 8: January 13, 2018
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: I build the routes and schema for my personal blog.
+**Thoughts**: I was hard trying to remember how to create a restfull app in node.
 **Link to Work** ()[]
 
+
+### Day 9: January 14, 2018
+**Today's Porgress**: Done with the intermediate coding challenges on FCC, now I will focus on the projects. Also took some classes on Flexbox on Colt's advanced course in udemy. 
+**Thoughts**: I feels good to finnish all the intermediate challenges.
+**Link to work** (FCC)[https://freecodecamp.org/emersonlbr]
+
+
+### Day 10: January 15, 2018
+**Today's Progress**: Worked on the Javascript calculator challenge, got it working well.
+**Thoughts**: I am very excited because I know I kind of good with building projects. I feels good to be doing something 'real' after speading so much time in the algorithms challenges.
+**Link to work** (JavaScript Calculator)[https://emersonlbr.github.io/Free-Code-Camp-Projects/calculator/index.html]
+
+
+### Day 11: Janaury 16, 2018
+**Today's Progress**: Started working on the pomodoro clock
+**THoughts**: Feeling like I good with Javascript even though I dont know much
+**Link to work**: ()[]
+
+### Day 12: January 17, 2018
+**Today's Progress**: worked on the Pomodoro Clock for FCC
+**THoughts**: I thought this challenge would be simple but it turned out to be more complicated.
+**Link to work**: ()[]
+
+
+### Day 13: January 18, 2018
+**Today's Progress**: Worked on the Pomodoro challenge for FCC (couldn't get done with) and read a lot of articles about algorithms in JavaScript.
+**THoughts**: I love learning new things about Javascript but it can also be quite challenging sometimes.
+**Link to work**: ()[]
+
+
+### Day 14: January 19, 2018
+**Today's Progress**: Took some lessons about CSS on udemy.
+**THoughts**: I never understand CSS, but I feel like I'm getting better at it!
+**Link to work**: ()[]
+
+
+### Day 15: January 20, 2018
+**Today's Progress**: 
+**THoughts**:
+**Link to work**: ()[]
