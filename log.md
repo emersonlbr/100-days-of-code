@@ -95,6 +95,18 @@ tor App](http://www.example.com) -->
 
 
 ### Day 15: January 20, 2018
-**Today's Progress**: 
+**Today's Progress**: studied data structure in javascript
 **THoughts**:
 **Link to work**: ()[]
+
+
+### Day 15: January 21, 2018
+**Today's Progress**: Worked on the Pomodoro clock
+**THoughts**: having a hard time trying to get this app to work
+**Link to work**: ()[]
+
+
+### Day 15: January 22, 2018
+**Today's Progress**: Finnished the pomodoro clock!
+**THoughts**: learned a lot of new things with this challenge!
+**Link to work**: (Pomodoro Clock)[https://emersonlbr.github.io/Free-Code-Camp-Projects/pomodoro/index.html]
