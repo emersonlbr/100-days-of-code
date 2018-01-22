@@ -100,13 +100,13 @@ tor App](http://www.example.com) -->
 **Link to work**: ()[]
 
 
-### Day 15: January 21, 2018
+### Day 16: January 21, 2018
 **Today's Progress**: Worked on the Pomodoro clock
 **THoughts**: having a hard time trying to get this app to work
 **Link to work**: ()[]
 
 
-### Day 15: January 22, 2018
+### Day 17: January 22, 2018
 **Today's Progress**: Finnished the pomodoro clock!
 **THoughts**: learned a lot of new things with this challenge!
-**Link to work**: (Pomodoro Clock)[https://emersonlbr.github.io/Free-Code-Camp-Projects/pomodoro/index.html]
+**Link to work**: [Pomodoro Clock](https://emersonlbr.github.io/Free-Code-Camp-Projects/pomodoro/index.html)
