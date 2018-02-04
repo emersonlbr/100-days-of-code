@@ -56,57 +56,151 @@ tor App](http://www.example.com) -->
 ### Day 8: January 13, 2018
 **Today's Progress**: I build the routes and schema for my personal blog.
 **Thoughts**: I was hard trying to remember how to create a restfull app in node.
-**Link to Work** ()[]
+**Link to Work** []()
 
 
 ### Day 9: January 14, 2018
-**Today's Porgress**: Done with the intermediate coding challenges on FCC, now I will focus on the projects. Also took some classes on Flexbox on Colt's advanced course in udemy. 
+**Today's Porgress**: Done with the intermediate coding challenges on FCC, now I will focus on the projects. Also took some classes on Flexbox on Colt's advanced course in udemy.
 **Thoughts**: I feels good to finnish all the intermediate challenges.
-**Link to work** (FCC)[https://freecodecamp.org/emersonlbr]
+**Link to work** [FCC](https://freecodecamp.org/emersonlbr)
 
 
 ### Day 10: January 15, 2018
 **Today's Progress**: Worked on the Javascript calculator challenge, got it working well.
 **Thoughts**: I am very excited because I know I kind of good with building projects. I feels good to be doing something 'real' after speading so much time in the algorithms challenges.
-**Link to work** (JavaScript Calculator)[https://emersonlbr.github.io/Free-Code-Camp-Projects/calculator/index.html]
+**Link to work** [JavaScript Calculator](https://emersonlbr.github.io/Free-Code-Camp-Projects/calculator/index.html)
 
 
 ### Day 11: Janaury 16, 2018
 **Today's Progress**: Started working on the pomodoro clock
-**THoughts**: Feeling like I good with Javascript even though I dont know much
-**Link to work**: ()[]
+**Thoughts**: Feeling like I good with Javascript even though I dont know much
+**Link to work**:
 
 ### Day 12: January 17, 2018
 **Today's Progress**: worked on the Pomodoro Clock for FCC
-**THoughts**: I thought this challenge would be simple but it turned out to be more complicated.
-**Link to work**: ()[]
+**Thoughts**: I thought this challenge would be simple but it turned out to be more complicated.
+**Link to work**:
 
 
 ### Day 13: January 18, 2018
 **Today's Progress**: Worked on the Pomodoro challenge for FCC (couldn't get done with) and read a lot of articles about algorithms in JavaScript.
-**THoughts**: I love learning new things about Javascript but it can also be quite challenging sometimes.
-**Link to work**: ()[]
+**Thoughts**: I love learning new things about Javascript but it can also be quite challenging sometimes.
+**Link to work**:
 
 
 ### Day 14: January 19, 2018
 **Today's Progress**: Took some lessons about CSS on udemy.
 **THoughts**: I never understand CSS, but I feel like I'm getting better at it!
-**Link to work**: ()[]
+**Link to work**:
 
 
 ### Day 15: January 20, 2018
 **Today's Progress**: studied data structure in javascript
 **THoughts**:
-**Link to work**: ()[]
+**Link to work**:
 
 
 ### Day 16: January 21, 2018
 **Today's Progress**: Worked on the Pomodoro clock
 **THoughts**: having a hard time trying to get this app to work
-**Link to work**: ()[]
+**Link to work**:
 
 
 ### Day 17: January 22, 2018
 **Today's Progress**: Finnished the pomodoro clock!
-**THoughts**: learned a lot of new things with this challenge!
+**Thoughts**: learned a lot of new things with this challenge!
 **Link to work**: [Pomodoro Clock](https://emersonlbr.github.io/Free-Code-Camp-Projects/pomodoro/index.html)
+
+
+### Day 18: January 23, 2018
+**Today's Progress**: Started working on the TicTacToe interface
+**Thoughts**: It's always good to practice my CSS skills
+**Link to work** []()
+
+
+### Day 19: January 24, 2018
+**Today's Progress**: Didn't do much, I was too busy with work and started looking for colleges to apply to, though I read a lot about Javascript functions,
+**Thoughts**: Finally understood the basic difference from function declarations to expressions.
+**Link to work** []()
+
+
+### Day 20: January 25, 2018
+**Today's Progress**: Planned what I wanted to learn this year, what are my preferences and resources. it's gonna be VanilaJS, React, Node, MongoDB, CSS grid and flexbox, SASS and Bootstrap.
+**Thoughts**: I plan to get at speand at least a good amount of time dedicated to understanding these technologies. I wanna get good at creating CRUD (create, read, update, destroy) like Apps.
+**Link to work** []()
+
+
+### Day 21: January 26, 2018
+**Today's Progress**: Studied a lot about PWA
+**Thoughts**:It is really interesting the idea of building PWA's!
+**Link to work** []()
+
+
+### Day 22: January 27, 2018
+**Today's Progress**: Worked on my personal portfolio
+**Thoughts**: Due to the Free Code Camp projects I haven't worked with node in a while, I have some issues trying to retrieve the data from the database.
+
+
+### Days 23 to 26: January 27 - 31, 2018
+**Days' Progress**: Worked on a my Personal Blog project, written in Node/MongoDB.
+**Thoughts**: These days were all so productive, I really didn't think I could accomplish this, but after struggling so much and learning from my mistakes I could get it to work and finish it
+**Link to Work** [Emerson's Blog](emerson-blog.heroku.com)
+
+
+### Day 27: February 01, 2018
+**Today's Progress**: I did not work much, just read some tutorials about react and redux, I'm excited to learn it.
+**Thoughts**: Feeling kind of unsure about everything. Not sure if I am going to college, I must choose in what city I will study at.
+**Link to Work** []()
+
+
+### Day 28: February 02, 2018
+**Today's Progress**: 
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 29: February 03, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 30: February 04, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+### Day 31: February 05, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 32: February 06, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 33: February 07, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 34: February 08, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 35: February 09, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 36: February 10, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work** []()
