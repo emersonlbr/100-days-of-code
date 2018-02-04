@@ -11,7 +11,7 @@ tor App](http://www.example.com) -->
 ### Day 0: January 5, 2018
 **Today's Progress**: Getting ready for the challenge, setting everything up.
 **Thoughts**: I am really excited to start this challenge, motivaded and focused. Goal: get better at coding and finnish the Free Code Camp front end map.
-**Link(s) to work**: [FCC Profile]](https://www.freecodecamp.org/emersonlbr)
+**Link(s) to work**: [FCC Profile](https://www.freecodecamp.org/emersonlbr)
 
 
 ### Day 1: January 6, 2018
