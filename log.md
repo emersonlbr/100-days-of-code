@@ -121,19 +121,19 @@ tor App](http://www.example.com) -->
 ### Day 19: January 24, 2018
 **Today's Progress**: Didn't do much, I was too busy with work and started looking for colleges to apply to, though I read a lot about Javascript functions,
 **Thoughts**: Finally understood the basic difference from function declarations to expressions.
-**Link to work** []()
+<!-- **Link to work** []() -->
 
 
 ### Day 20: January 25, 2018
 **Today's Progress**: Planned what I wanted to learn this year, what are my preferences and resources. it's gonna be VanilaJS, React, Node, MongoDB, CSS grid and flexbox, SASS and Bootstrap.
 **Thoughts**: I plan to get at speand at least a good amount of time dedicated to understanding these technologies. I wanna get good at creating CRUD (create, read, update, destroy) like Apps.
-**Link to work** []()
+<!-- **Link to work** []() -->
 
 
 ### Day 21: January 26, 2018
 **Today's Progress**: Studied a lot about PWA
 **Thoughts**:It is really interesting the idea of building PWA's!
-**Link to work** []()
+<!-- **Link to work** []() -->
 
 
 ### Day 22: January 27, 2018
@@ -150,19 +150,19 @@ tor App](http://www.example.com) -->
 ### Day 27: February 01, 2018
 **Today's Progress**: I did not work much, just read some tutorials about react and redux, I'm excited to learn it.
 **Thoughts**: Feeling kind of unsure about everything. Not sure if I am going to college, I must choose in what city I will study at.
-**Link to Work** []()
+<!-- **Link to Work** []() -->
 
 
 ### Day 28: February 02, 2018
-**Today's Progress**: 
-**Thoughts**:
-**Link to Work** []()
+**Today's Progress**: Studied flexbox properties and build a site using flexbox and animations
+<!-- **Thoughts**: -->
+<!-- **Link to Work** []() -->
 
 
 ### Day 29: February 03, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work** []()
+**Today's Progress**: Studied about async foundations, how node works, on Colt's Bootcamp  etc
+**Thoughts**: Javascript really makes me confused, but as I am new to this I guess I will get used to it. 
+<!-- **Link to Work** []() -->
 
 
 ### Day 30: February 04, 2018
