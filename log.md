@@ -165,15 +165,15 @@ tor App](http://www.example.com) -->
 <!-- **Link to Work** []() -->
 
 
-### Day 30: February 04, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work** []()
+###Day 30: February 04, 2018
+**Today's Progress**: Worked on the tic tac toe game for FCC, got a lot done but still couldn't find a way to show when someone wins the game.
+**Thoughts**: This is the hardest challenge I've ever faced on FCC xD I simply can't think of a way to get things done, but eventually I will figure it out. 
+**Link to Work** [Tic Tac Toe](https://emersonlbr.github.io/Free-Code-Camp-Projects/tic-tac-toe/)
 
 ### Day 31: February 05, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work** []()
+**Today's Progress**: Finished the Tic Tac Toe game, it is working and fulfilling all user stories, but it's not unbeatable, this is a bonus though, maybe I will work on that later.
+**Thoughts**: it's great that I was able to finish this project.
+**Link to Work** [Tic Tac Toe](https://emersonlbr.github.io/Free-Code-Camp-Projects/tic-tac-toe/)
 
 
 ### Day 32: February 06, 2018
