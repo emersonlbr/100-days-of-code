@@ -165,7 +165,7 @@ tor App](http://www.example.com) -->
 <!-- **Link to Work** []() -->
 
 
-###Day 30: February 04, 2018
+### Day 30: February 04, 2018
 **Today's Progress**: Worked on the tic tac toe game for FCC, got a lot done but still couldn't find a way to show when someone wins the game.
 **Thoughts**: This is the hardest challenge I've ever faced on FCC xD I simply can't think of a way to get things done, but eventually I will figure it out. 
 **Link to Work** [Tic Tac Toe](https://emersonlbr.github.io/Free-Code-Camp-Projects/tic-tac-toe/)
@@ -177,30 +177,54 @@ tor App](http://www.example.com) -->
 
 
 ### Day 32: February 06, 2018
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Actually spent the day reading about how to be a better coder, got a lot of hints and tips be always keep improving my skills.
+**Thoughts**: I was actually thinking about how much I already know and there's much more to learn, also the SpaceX launch today - Falcon Heavy - really got me motivated to keep working on coding.
 **Link to Work** []()
 
 
 ### Day 33: February 07, 2018
-**Today's Progress**:
+**Today's Progress**: Played with dom manipulation, just to remind myself of the things I've learned and how to interact with it.
 **Thoughts**:
 **Link to Work** []()
 
 
 ### Day 34: February 08, 2018
-**Today's Progress**:
+**Today's Progress**: Studied async foundations, promises, how javascript executes code
 **Thoughts**:
 **Link to Work** []()
 
 
 ### Day 35: February 09, 2018
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Introduction to Ajax, how it has changed the way people write web apps, and made room for the PWA's
+**Thoughts**: It's pretty neat to get the definition of Ajax, cause even though I have worked with it before I didn't really know what it were about. The same thing with promises, I believe that sometimes I am scared to study something, cause I'm afraid to not be ready for it, but in the end it something really simple.
 **Link to Work** []()
 
 
 ### Day 36: February 10, 2018
-**Today's Progress**:
+**Today's Progress**: tried to design the Simon Game for FCC, got something done but nothing concrete.
+**Thoughts**: I believe that this will be the hardest challenge from FCC, maybe because of that I am procrastinating and not really spending the hours I need to get it done.
+**Link to Work** []()
+
+
+### Day 34: February 11, 2018
+**Today's Progress**: Saw how I can use Ajax with promises and make the code easier to read an maintain. 
+**Thoughts**: Getting deeper with Javascript feels nice, I want to be a specialist on building web applications. 
+**Link to Work** []()
+
+
+### Day 34: February 12, 2018
+**Today's Progress**: Studied more about Promises, callbacks, semicolons and a whole lot more on JavaScript.
+**Thoughts**:
+**Link to Work** []()
+
+
+### Day 34: February 13, 2018
+**Today's Progress**: Saw a lot today, intro to Jasmine, reviewed Construtors in Javascript, and OOP
+**Thoughts**: People usually say testing sucks - it's boring - but I actually found testing kind of cool.
+**Link to Work** []()
+
+
+### Day 34: February 14, 2018
+**Today's Progress**: 
 **Thoughts**:
 **Link to Work** []()
