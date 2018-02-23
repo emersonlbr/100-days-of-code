@@ -279,6 +279,6 @@ tor App](http://www.example.com) -->
 
 
 ### Day 49: February 23, 2018
-**Today's Progress**:
-**Thoughts**:
-<!-- **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git) -->
+**Today's Progress**: Working on CSS, trying to wrap my head around Sass, saw some nice things that can be done with npm too.
+**Thoughts**: There's so many things to learn in Web Development sometimes I feel like it's overcomplicated. But it's actually nice knowing the things I can do. 
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git)
