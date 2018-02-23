@@ -161,13 +161,13 @@ tor App](http://www.example.com) -->
 
 ### Day 29: February 03, 2018
 **Today's Progress**: Studied about async foundations, how node works, on Colt's Bootcamp  etc
-**Thoughts**: Javascript really makes me confused, but as I am new to this I guess I will get used to it. 
+**Thoughts**: Javascript really makes me confused, but as I am new to this I guess I will get used to it.
 <!-- **Link to Work** []() -->
 
 
 ### Day 30: February 04, 2018
 **Today's Progress**: Worked on the tic tac toe game for FCC, got a lot done but still couldn't find a way to show when someone wins the game.
-**Thoughts**: This is the hardest challenge I've ever faced on FCC xD I simply can't think of a way to get things done, but eventually I will figure it out. 
+**Thoughts**: This is the hardest challenge I've ever faced on FCC xD I simply can't think of a way to get things done, but eventually I will figure it out.
 **Link to Work** [Tic Tac Toe](https://emersonlbr.github.io/Free-Code-Camp-Projects/tic-tac-toe/)
 
 ### Day 31: February 05, 2018
@@ -206,25 +206,79 @@ tor App](http://www.example.com) -->
 **Link to Work** []()
 
 
-### Day 34: February 11, 2018
-**Today's Progress**: Saw how I can use Ajax with promises and make the code easier to read an maintain. 
-**Thoughts**: Getting deeper with Javascript feels nice, I want to be a specialist on building web applications. 
+### Day 37: February 11, 2018
+**Today's Progress**: Saw how I can use Ajax with promises and make the code easier to read an maintain.
+**Thoughts**: Getting deeper with Javascript feels nice, I want to be a specialist on building web applications.
 **Link to Work** []()
 
 
-### Day 34: February 12, 2018
+### Day 38: February 12, 2018
 **Today's Progress**: Studied more about Promises, callbacks, semicolons and a whole lot more on JavaScript.
 **Thoughts**:
 **Link to Work** []()
 
 
-### Day 34: February 13, 2018
+### Day 39: February 13, 2018
 **Today's Progress**: Saw a lot today, intro to Jasmine, reviewed Construtors in Javascript, and OOP
 **Thoughts**: People usually say testing sucks - it's boring - but I actually found testing kind of cool.
 **Link to Work** []()
 
 
-### Day 34: February 14, 2018
-**Today's Progress**: 
+### Day 40: February 14, 2018
+**Today's Progress**:I Watched live code with Jessie on FCC youtube channel for a while. Then I tried to style the simmon game without success.
+**Thoughts**: Watching someone else code it's quite fun and helpful, knowing everyone strugggles while coding actually helps me to know that I am not the only one who, sometimes, have hard times trying to figure out how to do something. The Simmon Game seems just impossible, but I will figure it out.
+**Link to Work** []()
+
+
+### Day 41: February 15, 2018
+**Today's Progress**: Didn't code today. I wrote an article about FCC and why I love it. I answered a couple of questions on th forum as well.
+**Thoughts**: I decided to write the article after seeing a topic on the forum saying the FCC is discouraging for beginners.
+**Link to Work** [Medium Article](https://medium.com/@emersonlbr/freecodecamp-doesnt-teach-you-how-to-code-and-that-s-great-c8a9f03c667e)
+
+
+### Day 42: February 16, 2018
+**Today's Progress**: Spent the day reading more about javascript. I am really excited to start react but I must see some stuff first. I also watched Jesse coding on the fCC youtube channel and worked on the simmon game as well.
 **Thoughts**:
 **Link to Work** []()
+
+
+### Day 43: February 17, 2018
+**Today's Progress**: Finished the Simon Game for fCC and finally get the certificated - yey -
+**Thoughts**: Now I think I must just watch some more lessons on Colt's course on Udemy then I am ready to learn React! Super Excited about it
+**Link to Work** []()
+
+
+### Day 44: February 18, 2018
+**Today's Progress**: Created a node api and integrated to a front end page using Ajax(Ajad actually haha) and I reviewed new ES2015 features!
+**Thoughts**: I thought I would be super difficult to create an api but it was quite simple. I didn't struggle much. I guess it's because I am used to working with node. Building this app I really felt I need to practice more of my CSS. I want to master CSS grid and flexbox!
+**Link to Work** []()
+
+
+### Day 45: February 19, 2018
+**Today's Progress**: Intro to D3 on colts bootcamp, I saw Data joins and Update patterns
+**Thoughts**: D3 seems pretty hard to learn at first, but there are a lot of cool things that can be done with it
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp)
+
+
+### Day 46: February 20, 2018
+**Today's Progress**: Continued to study D3 and the syntax and the patterns are kind of strange to me
+**Thoughts**: This will be hard to master xD
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp)
+
+
+### Day 47: February 21, 2018
+**Today's Progress**: Another day studying D3 on colt's bootcamp on Udemy and saw how to start uding SVG.
+**Thoughts**: SVG seems cool and also hard to understand, I need to improve my CSS skills and then come back to this.
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-web-dev-bootcamp)
+
+
+### Day 48: February 22, 2018
+**Today's Progress**: Worked on my CSS skills, built a header and studied how CSS study behind the scenes.
+**Thoughts**:
+**Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git)
+
+
+### Day 49: February 23, 2018
+**Today's Progress**:
+**Thoughts**:
+<!-- **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git) -->
