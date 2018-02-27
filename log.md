@@ -280,5 +280,29 @@ tor App](http://www.example.com) -->
 
 ### Day 49: February 23, 2018
 **Today's Progress**: Working on CSS, trying to wrap my head around Sass, saw some nice things that can be done with npm too.
-**Thoughts**: There's so many things to learn in Web Development sometimes I feel like it's overcomplicated. But it's actually nice knowing the things I can do. 
+**Thoughts**: There's so many things to learn in Web Development sometimes I feel like it's overcomplicated. But it's actually nice knowing the things I can do.
 **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git)
+
+
+# Day 50: February 24, 2018
+**Today's Progress**: Read Eloquent JavaScript about Methods, Objects, and working with them.
+**Thoughts**: JavaScript is pretty confusing sometimes.
+**Link to Work**: []()
+
+
+# Day 51: February 25, 2018
+**Today's Progress**: On Jonas Advanced CSS Course on Udemy I started working on CSS grid using float.
+**Thoughts**: Though we have CSS grid and flexbox now it is sometimes important to understand floats, for compability and legacy code.
+**Link to Work**: []()
+
+
+# Day 52: February 26, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+# Day 53: February 27, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
