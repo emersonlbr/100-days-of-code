@@ -297,12 +297,18 @@ tor App](http://www.example.com) -->
 
 
 # Day 52: February 26, 2018
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Didn't code much, I spent the day putting my Github repos in order, add a description to them and so on.
+**Thoughts**: Even though I have some repos from when I was starting to learn how to code I don't want to delete them because it is nice to remember how I used to learn things.
 **Link to Work**: []()
 
 
 # Day 53: February 27, 2018
+**Today's Progress**: Studied the differences between programing languages
+**Thoughts**: It's interesting to see that programing languages can be used for different things but also that some are better in some aspects.
+**Link to Work**: []()
+
+
+# Day 54: February 28, 2018
 **Today's Progress**:
 **Thoughts**:
 **Link to Work**: []()
