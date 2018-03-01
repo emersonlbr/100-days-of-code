@@ -309,6 +309,6 @@ tor App](http://www.example.com) -->
 
 
 # Day 54: February 28, 2018
-**Today's Progress**:
+**Today's Progress**: Created a CSS Grid based on floats, using sass.
 **Thoughts**:
 **Link to Work**: []()
