@@ -284,31 +284,85 @@ tor App](http://www.example.com) -->
 **Link to Work** [Github Repo](https://github.com/emersonlbr/advanced-css.git)
 
 
-# Day 50: February 24, 2018
+### Day 50: February 24, 2018
 **Today's Progress**: Read Eloquent JavaScript about Methods, Objects, and working with them.
 **Thoughts**: JavaScript is pretty confusing sometimes.
 **Link to Work**: []()
 
 
-# Day 51: February 25, 2018
+### Day 51: February 25, 2018
 **Today's Progress**: On Jonas Advanced CSS Course on Udemy I started working on CSS grid using float.
 **Thoughts**: Though we have CSS grid and flexbox now it is sometimes important to understand floats, for compability and legacy code.
 **Link to Work**: []()
 
 
-# Day 52: February 26, 2018
+### Day 52: February 26, 2018
 **Today's Progress**: Didn't code much, I spent the day putting my Github repos in order, add a description to them and so on.
 **Thoughts**: Even though I have some repos from when I was starting to learn how to code I don't want to delete them because it is nice to remember how I used to learn things.
 **Link to Work**: []()
 
 
-# Day 53: February 27, 2018
+### Day 53: February 27, 2018
 **Today's Progress**: Studied the differences between programing languages
 **Thoughts**: It's interesting to see that programing languages can be used for different things but also that some are better in some aspects.
 **Link to Work**: []()
 
 
-# Day 54: February 28, 2018
+### Day 54: February 28, 2018
 **Today's Progress**: Created a CSS Grid based on floats, using sass.
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 55: March 01, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 56: March 02, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 57: March 03, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 58: March 03, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 58: March 04, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 59: March 05, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 60: March 06, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 61: March 07, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**: []()
+
+
+### Day 62: March 08, 2018
+**Today's Progress**:
 **Thoughts**:
 **Link to Work**: []()
