@@ -315,54 +315,66 @@ tor App](http://www.example.com) -->
 
 
 ### Day 55: March 01, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: Worked on my D3 skills, this is really hard to learn.
+**Thoughts**: I still do not understand all the advantagens of using d3.
+<!-- **Link to Work**: []() -->
 
 
 ### Day 56: March 02, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: reviewed some new features of ES6 and beyond
+**Thoughts**: Javascript is getting really nice with all of these new updates.
+<!-- **Link to Work**: []() -->
 
 
 ### Day 57: March 03, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: Tried to build and node app with user authentication
+**Thoughts**: node authentication is still a pain for me to learn.
+<!-- **Link to Work**: []() -->
 
 
 ### Day 58: March 03, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: another day working on the node app
+<!-- **Thoughts**: -->
+<!-- **Link to Work**: []() -->
 
 
 ### Day 58: March 04, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: created a simple website with html and css
+**Thoughts**: did that only to review my skills CSS is really tricky for me.
+<!-- **Link to Work**: []() -->
 
 
 ### Day 59: March 05, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: read some posts on medium about programming.
+**Thoughts**: didn't feel like coding much today.
+<!-- **Link to Work**: []() -->
 
 
 ### Day 60: March 06, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: Read some more chapters of eloquent javascript.
+**Thoughts**: i feel like i will never get really learn js, I am always at the intermediate level
+<!-- **Link to Work**: []() -->
 
 
 ### Day 61: March 07, 2018
-**Today's Progress**:
-**Thoughts**:
-**Link to Work**: []()
+**Today's Progress**: tried to build a website with node and serving static files with html and sass
+<!-- **Thoughts**: -->
+<!-- **Link to Work**: []() -->
 
 
 ### Day 62: March 08, 2018
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: started a project with a partner to build blog using the MERN stack
+**Thoughts**: excited about this even though I haven't seen node yet.
+<!-- **Link to Work**: []() -->
+
+
+### Day 63: March 09, 2018
+**Today's Progress**: worked on another blog this time build with sass
+<!-- **Thoughts**:  -->
+<!-- **Link to Work**: []() -->
+
+
+### Day 64: March 10, 2018
+**Today's Progress**: still worked on the sass blog added some nice animations
+**Thoughts**: I'm not good with css but doing simple layouts is quite easy. I feel like I am getting good at it! Flexbox and CSS grid makes stuff so much easier.
 **Link to Work**: []()
