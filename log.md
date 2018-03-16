@@ -378,3 +378,39 @@ tor App](http://www.example.com) -->
 **Today's Progress**: still worked on the sass blog added some nice animations
 **Thoughts**: I'm not good with css but doing simple layouts is quite easy. I feel like I am getting good at it! Flexbox and CSS grid makes stuff so much easier.
 **Link to Work**: []()
+
+
+### Day 65: March 11, 2018
+**Today's Progress**: Worked on the blog, changed a few things and started thinking on how to integrate it a backend.
+<!-- **Thoughts**:
+**Link to Work**: -->
+
+
+### Day 66: March 12, 2018
+**Today's Progress**: Studied more a bout SVG, there are a lot of cool things that can be done with it.
+<!-- **Thoughts**:
+**Link to Work**: -->
+
+
+### Day 67: March 13, 2018
+**Today's Progress**: Learned how to use D3 and SVG for data visualization.
+<!-- **Thoughts**:
+**Link to Work**: -->
+
+
+### Day 68: March 14, 2018
+**Today's Progress**: Build a simple app with D3 and SVG showing some data coming from an array.
+<!-- **Thoughts**:
+**Link to Work**: -->
+
+
+### Day 69: March 15, 2018
+**Today's Progress**: Got started with react! Build my first react app with create-react-app.
+**Thoughts**: react seems cool, it's amazing that you can reuse components.
+<!-- **Link to Work**: -->
+
+
+### Day 70: March 16, 2018
+**Today's Progress**:   
+<!-- **Thoughts**:
+**Link to Work**: -->
