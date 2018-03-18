@@ -411,6 +411,18 @@ tor App](http://www.example.com) -->
 
 
 ### Day 70: March 16, 2018
-**Today's Progress**:   
+**Today's Progress**: Learned more basics about react on Colt's Course on Udemy.
 <!-- **Thoughts**:
 **Link to Work**: -->
+
+
+### Day 71: March 17, 2018
+**Today's Progress**: Tried to implement sass and react on the last blog I created.
+**Thoughts**: Since I am learning sass it's been a great thing to try to integrate the sass files with React without configuring webpack.
+<!-- **Link to Work**: -->
+
+
+### Day 72: March 18, 2018
+**Today's Progress**: Learned a whole lot more about react, how to integrate it with a external API
+**Thoughts**: I am loving react :D
+<!--**Link to Work**: -->
