@@ -426,3 +426,33 @@ tor App](http://www.example.com) -->
 **Today's Progress**: Learned a whole lot more about react, how to integrate it with a external API
 **Thoughts**: I am loving react :D
 <!--**Link to Work**: -->
+
+
+### Day 73: March 19, 2018
+**Today's Progress**: implemented a API using node.
+**Thoughts**: it's good to review how to write simple API's using node and MongoDB
+**Link to Work**:
+
+
+### Day 74: March 20, 2018
+**Today's Progress**: Built another API in NodeJS
+<!-- **Thoughts**:
+**Link to Work**: -->
+
+
+### Day 75: March 21, 2018
+**Today's Progress**: Studied more about React
+**Thoughts**: Props and State still confuse me a lot, it's being hard to wrap my head around React.
+<!-- **Link to Work**: -->
+
+
+### Day 76: March 22, 2018
+**Today's Progress**: Started a fullstack project with node and react wtih The Advanced Developer Bootcamp.
+**Thoughts**: this series seem really good to implement all that I have studied so far about react and node.
+<!-- **Link to Work**: -->
+
+
+### Day 77: March 23, 2018
+**Today's Progress**:
+**Thoughts**:
+**Link to Work**:
