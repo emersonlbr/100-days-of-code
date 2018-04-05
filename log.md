@@ -542,6 +542,146 @@ tor App](http://www.example.com) -->
 
 ### Day 80: March 26, 2018
 
-**Today's Progress**: Started working on the Front end part of warbler 
+**Today's Progress**: Started working on the Front end part of warbler
 **Thoughts**: kinda lost in redux, the set up for a new project is also too complicated
 <!-- **Link to Work**: -->
+
+
+### Day 81: March 27, 2018
+
+**Today's Progress**: I didn't actually code much, I looked for some react tutorials to watch and wrote an article for medium.
+**Thoughts**: I need to finish my react blog cause I want to publish my posts on my blog as well, not only on Medium.
+<!-- **Link to work**: -->
+
+
+### Day 82: March 28, 2018
+
+**Today's Progress**: I started working on the fCC beta, there are some react lessons there so I am following those lessons.
+**Thoughts**: I learn so much better by reading things than actually just following someone coding.
+**Link to work**: [A Lesson from freeCodeCamp](https://beta.freecodecamp.org/en/challenges/react/write-a-react-component-from-scratch)
+
+
+### Day 83: March 29, 2018
+
+**Today's Progress**: Studied more about Reactjs
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
+
+
+### Day 84: March 30, 2018
+
+**Today's Progress**: Started migrating a blog from static HTML to react.
+**Thoughts**: having issues to decide how to split components in react
+<!-- **Link to work**: -->
+
+
+### Day 85: March 31, 2018
+
+**Today's Progress**: worked on the blog, built a page to see each post.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
+
+
+### Day 86: April 1, 2018
+
+**Today's Progress**: tried to create a mongoose schema for storing the blog posts.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
+
+
+### Day 87: April 2, 2018
+
+**Today's Progress**: worked on how to integrate the datadase data in the react blog, if I should inject raw html or get data from an object.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
+
+
+### Day 88: April 3, 2018
+
+**Today's Progress**: I have done some react tutorials on fCC Beta, they are awesome!
+**Thoughts**: I seem to learn more by doing the fCC lessons than videos on Udemy/Youtube
+<!-- **Link to work**: -->
+
+
+### Day 89: April 4, 2018
+
+**Today's Progress**: Started a new react course on Udemy.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
+
+
+### Day 90: April 5, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 91: April 6, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 92: April 7, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 93: April 8, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 94: April 9, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 95: April 10, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 96: April 11, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 97: April 12, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 98: April 13, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 99: April 14, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
+
+
+### Day 100: April 15, 2018
+
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
