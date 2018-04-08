@@ -612,23 +612,23 @@ tor App](http://www.example.com) -->
 
 ### Day 90: April 5, 2018
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Reviewed some nice feature of ES2015 and beyond.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
 
 
 ### Day 91: April 6, 2018
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Studied more about ReactJS.
+**Thoughts**: I think I am getting the hang of ReactJS now, starting to understand the concepts.
+<!-- **Link to work**: -->
 
 
 ### Day 92: April 7, 2018
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Continued to work on ReactJS, Props and State, difference between functional and stateless components etc.
+<!-- **Thoughts**: -->
+<!-- **Link to work**: -->
 
 
 ### Day 93: April 8, 2018
