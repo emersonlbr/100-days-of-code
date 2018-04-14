@@ -674,7 +674,7 @@ tor App](http://www.example.com) -->
 
 ### Day 99: April 14, 2018
 
-**Today's Progress**:
+**Today's Progress**: Worked on the freecodecamp react projects
 **Thoughts**:
 **Link to work**:
 
