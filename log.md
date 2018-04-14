@@ -675,7 +675,7 @@ tor App](http://www.example.com) -->
 ### Day 99: April 14, 2018
 
 **Today's Progress**: Worked on the freecodecamp react projects
-**Thoughts**:
+**Thoughts**: freecodecamp beta has pretty nice react lessons
 **Link to work**:
 
 
