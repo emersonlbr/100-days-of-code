@@ -633,43 +633,43 @@ tor App](http://www.example.com) -->
 
 ### Day 93: April 8, 2018
 
-**Today's Progress**:
+**Today's Progress**: Read Elequent JS and watched some youtube videos about react
 **Thoughts**:
 **Link to work**:
 
 
 ### Day 94: April 9, 2018
 
-**Today's Progress**:
+**Today's Progress**: started studying a little bit of docker.
 **Thoughts**:
 **Link to work**:
 
 
 ### Day 95: April 10, 2018
 
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**:watched some lessons on VueJS, it seems really interesting and simpler than React.
+**Thoughts**: I want to focus more on React for now, then, maybe I will dedicate some time to Vue
 **Link to work**:
 
 
 ### Day 96: April 11, 2018
 
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: I read some more chapters of Eloquent JS, it is a very interesting book.
+**Thoughts**: I always find out new things about JS in this book.
 **Link to work**:
 
 
 ### Day 97: April 12, 2018
 
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: More on react, created a simple 'live update text'
+**Thoughts**: while the user typed in the input it was rendered on a h1 in real time.
 **Link to work**:
 
 
 ### Day 98: April 13, 2018
 
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Didn't code much today, I had fucked up the Mac's OS and spent the day trying to reinstall a clean copy on High Sierra.
+**Thoughts**: Apple didn't make things easier, for some reason I was not able to download the OS from the recovery mode and as I didn't have an usb boot, i had to do a hack with my mom's computer, which runs windows. I'm too tired now.
 **Link to work**:
 
 
