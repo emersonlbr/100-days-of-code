@@ -681,6 +681,6 @@ tor App](http://www.example.com) -->
 
 ### Day 100: April 15, 2018
 
-**Today's Progress**:
-**Thoughts**:
-**Link to work**:
+**Today's Progress**: Last day: more on react! I will study for a long time, not only because it is hard but cause I love doing things with react! its is such an amazing library. 
+**Thoughts**: I am very inspired about what I have learned during the 100DaysOfCode challenge! Sass, Node apis, React, Got the freeCodeCamp front end certificate, css animations, d3, and so much more! but maybe the thing that I 'learned' more was to participate! share my work online and have people seeing it, it is an amazing feeling.
+<!-- **Link to work**: -->
